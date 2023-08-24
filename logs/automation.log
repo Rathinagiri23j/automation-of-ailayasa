@@ -1,0 +1,152 @@
+08/23/2023 12:09:35 PM: INFO: ****** Test 001_login *****
+08/23/2023 12:09:36 PM: INFO: ****** started *****
+08/23/2023 12:09:36 PM: INFO: ****** title verified for homepage*****
+08/23/2023 12:09:41 PM: INFO: ****** started *****
+08/23/2023 12:09:45 PM: ERROR: ****** failed title mismatch *****
+08/23/2023 12:13:55 PM: INFO: ****** Test 001_login *****
+08/23/2023 12:14:00 PM: INFO: ****** started *****
+08/23/2023 12:14:00 PM: INFO: ****** title verified for homepage*****
+08/23/2023 12:14:04 PM: INFO: ****** started *****
+08/23/2023 12:14:10 PM: ERROR: ****** failed title mismatch *****
+08/23/2023 12:25:02 PM: INFO: ****** Test 001_login *****
+08/23/2023 12:25:02 PM: INFO: ****** started *****
+08/23/2023 12:25:03 PM: INFO: ****** title verified for homepage*****
+08/23/2023 12:25:07 PM: INFO: ****** started *****
+08/23/2023 12:25:12 PM: ERROR: ****** failed title mismatch *****
+08/23/2023 12:26:04 PM: INFO: ****** Test 001_login *****
+08/23/2023 12:26:04 PM: INFO: ****** started *****
+08/23/2023 12:26:05 PM: INFO: ****** title verified for homepage*****
+08/23/2023 12:26:09 PM: INFO: ****** started *****
+08/23/2023 12:26:13 PM: ERROR: ****** failed title mismatch *****
+08/23/2023 12:58:38 PM: INFO: **** Test 001_login ****
+08/23/2023 12:58:38 PM: INFO: **** Home page verification started ****
+08/23/2023 12:58:39 PM: INFO: **** title verified for homepage *****
+08/23/2023 12:58:43 PM: INFO: **** Login Test Cast started ****
+08/23/2023 12:58:47 PM: ERROR: **** failed title mismatch *****
+08/23/2023 12:58:47 PM: INFO: **** Login test ended ****
+08/23/2023 01:03:12 PM: INFO: **** Test 001_login ****
+08/23/2023 01:03:12 PM: INFO: **** Home page verification started ****
+08/23/2023 01:03:13 PM: INFO: **** title verified for homepage *****
+08/23/2023 01:03:17 PM: INFO: **** Login Test Cast started ****
+08/23/2023 01:06:19 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:07:54 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:07:59 PM: ERROR: **** failed title mismatch *****
+08/23/2023 01:07:59 PM: INFO: **** Login test ended ****
+08/23/2023 01:09:11 PM: INFO: **** Test 001_login ****
+08/23/2023 01:09:12 PM: INFO: **** Home page verification started ****
+08/23/2023 01:09:12 PM: INFO: **** title verified for homepage *****
+08/23/2023 01:09:16 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:09:20 PM: ERROR: **** failed title mismatch *****
+08/23/2023 01:09:20 PM: INFO: **** Login test ended ****
+08/23/2023 01:10:15 PM: INFO: **** Test 001_login ****
+08/23/2023 01:10:17 PM: INFO: **** Home page verification started ****
+08/23/2023 01:10:18 PM: INFO: **** title verified for homepage *****
+08/23/2023 01:10:18 PM: INFO: **** Home page verification Test Ended ****
+08/23/2023 01:10:22 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:10:27 PM: ERROR: **** failed title mismatch *****
+08/23/2023 01:10:27 PM: INFO: **** Login test ended ****
+08/23/2023 01:23:40 PM: INFO: **** Test 001_login ****
+08/23/2023 01:23:41 PM: INFO: **** Home page verification started ****
+08/23/2023 01:23:41 PM: INFO: **** title verified for homepage *****
+08/23/2023 01:23:41 PM: INFO: **** Home page verification Test Ended ****
+08/23/2023 01:23:46 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:24:34 PM: INFO: **** Test 001_login ****
+08/23/2023 01:24:34 PM: INFO: **** Home page verification started ****
+08/23/2023 01:24:35 PM: INFO: **** title verified for homepage *****
+08/23/2023 01:24:35 PM: INFO: **** Home page verification Test Ended ****
+08/23/2023 01:24:39 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:27:07 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:27:47 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:27:51 PM: ERROR: **** failed title mismatch *****
+08/23/2023 01:27:51 PM: INFO: **** Login test ended ****
+08/23/2023 01:29:08 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:29:12 PM: ERROR: **** failed title mismatch *****
+08/23/2023 01:29:12 PM: INFO: **** Login test ended ****
+08/23/2023 01:30:18 PM: INFO: **** Test 001_login ****
+08/23/2023 01:30:18 PM: INFO: **** Home page verification started ****
+08/23/2023 01:30:19 PM: INFO: **** title verified for homepage *****
+08/23/2023 01:30:19 PM: INFO: **** Home page verification Test Ended ****
+08/23/2023 01:30:23 PM: INFO: **** Login Test Case started ****
+08/23/2023 01:30:27 PM: ERROR: **** failed title mismatch *****
+08/23/2023 01:30:27 PM: INFO: **** Login test ended ****
+08/23/2023 02:41:54 PM: INFO: **** Test 001_login ****
+08/23/2023 02:41:55 PM: INFO: **** Home page verification started ****
+08/23/2023 02:41:56 PM: INFO: **** title verified for homepage *****
+08/23/2023 02:41:56 PM: INFO: **** Home page verification Test Ended ****
+08/23/2023 02:42:00 PM: INFO: **** Login Test Case started ****
+08/23/2023 02:42:04 PM: ERROR: **** failed title mismatch *****
+08/23/2023 02:42:04 PM: INFO: **** Login test ended ****
+08/24/2023 11:10:09 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:10:09 AM: INFO: **** successfully launched website ****
+08/24/2023 11:12:25 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:12:26 AM: INFO: **** successfully launched website ****
+08/24/2023 11:13:41 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:13:42 AM: INFO: **** successfully launched website ****
+08/24/2023 11:19:48 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:19:48 AM: INFO: **** successfully launched website ****
+08/24/2023 11:25:02 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:25:02 AM: INFO: **** successfully launched website ****
+08/24/2023 11:28:59 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:29:00 AM: INFO: **** successfully launched website ****
+08/24/2023 11:37:56 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:37:57 AM: INFO: **** successfully launched website ****
+08/24/2023 11:39:32 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:39:32 AM: INFO: **** successfully launched website ****
+08/24/2023 11:51:25 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:51:26 AM: INFO: **** successfully launched website ****
+08/24/2023 11:56:39 AM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 11:56:40 AM: INFO: **** successfully launched website ****
+08/24/2023 12:06:11 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 12:06:12 PM: INFO: **** successfully launched website ****
+08/24/2023 12:25:59 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 12:26:00 PM: INFO: **** successfully launched website ****
+08/24/2023 12:31:15 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 12:31:16 PM: INFO: **** successfully launched website ****
+08/24/2023 12:33:50 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 12:33:53 PM: INFO: **** successfully launched website ****
+08/24/2023 12:45:51 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 12:45:52 PM: INFO: **** successfully launched website ****
+08/24/2023 12:50:01 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 12:50:01 PM: INFO: **** successfully launched website ****
+08/24/2023 01:07:17 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 01:07:19 PM: INFO: **** successfully launched website ****
+08/24/2023 01:09:31 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 01:09:31 PM: INFO: **** successfully launched website ****
+08/24/2023 01:14:21 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 01:14:22 PM: INFO: **** successfully launched website ****
+08/24/2023 01:57:01 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 01:57:01 PM: INFO: **** successfully launched website ****
+08/24/2023 02:45:42 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 02:45:43 PM: INFO: **** successfully launched website ****
+08/24/2023 02:46:28 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 02:46:29 PM: INFO: **** successfully launched website ****
+08/24/2023 02:48:53 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 02:48:54 PM: INFO: **** successfully launched website ****
+08/24/2023 02:53:17 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 02:53:17 PM: INFO: **** successfully launched website ****
+08/24/2023 02:54:03 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 02:54:04 PM: INFO: **** successfully launched website ****
+08/24/2023 02:56:44 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 02:56:45 PM: INFO: **** successfully launched website ****
+08/24/2023 02:58:37 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 02:58:37 PM: INFO: **** successfully launched website ****
+08/24/2023 03:01:00 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:01:01 PM: INFO: **** successfully launched website ****
+08/24/2023 03:01:47 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:01:48 PM: INFO: **** successfully launched website ****
+08/24/2023 03:11:43 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:11:44 PM: INFO: **** successfully launched website ****
+08/24/2023 03:15:57 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:15:57 PM: INFO: **** successfully launched website ****
+08/24/2023 03:20:15 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:20:15 PM: INFO: **** successfully launched website ****
+08/24/2023 03:21:00 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:21:01 PM: INFO: **** successfully launched website ****
+08/24/2023 03:29:52 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:29:52 PM: INFO: **** successfully launched website ****
+08/24/2023 03:32:04 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:32:05 PM: INFO: **** successfully launched website ****
+08/24/2023 03:40:48 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:40:48 PM: INFO: **** successfully launched website ****
+08/24/2023 03:42:24 PM: INFO: **** Test_002_project_flow starter ****
+08/24/2023 03:42:25 PM: INFO: **** successfully launched website ****
